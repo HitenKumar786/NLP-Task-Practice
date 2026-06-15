@@ -1,0 +1,9 @@
+Natural Language Processing (NLP) is a field of Artificial Intelligence.
+It focuses on enabling computers to understand, interpret, and generate
+human language.
+
+Sample sentences: 1. I love learning NLP. 2. Sentiment analysis helps
+identify positive and negative opinions. 3. Tokenization splits text
+into smaller units called tokens. 4. Vectorization converts text into
+numerical representations. 5. Machine learning models can analyze large
+amounts of text data.
